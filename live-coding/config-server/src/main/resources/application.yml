@@ -8,4 +8,9 @@ spring:
       server:
         git:
           uri: https://github.com/LeiteSS/microservices-config.git
+<<<<<<< HEAD:live-coding/config-server/src/main/resources/application.yml
 
+=======
+          username: ####
+          password: ###
+>>>>>>> 439d2a76de97a6eda0ba7aa405bb6cb193de8b8a:config-server/src/main/resources/application.yml
