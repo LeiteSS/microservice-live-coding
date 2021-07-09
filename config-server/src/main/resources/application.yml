@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/LeiteSS/microservices-config.git
-          username: LeiteSS
-          password: 03568799We
+          username: ####
+          password: ###
